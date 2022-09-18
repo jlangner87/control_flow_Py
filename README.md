@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/107937483/190887137-d23b88af-7b06-43cc-a79c-5dec32bfd60f.mp4
+![alice](https://user-images.githubusercontent.com/107937483/190887225-35cc5ed6-b046-4d88-99f3-a7532a519fe1.gif)
 
 
 ## Date: 8/25/2022
