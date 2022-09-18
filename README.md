@@ -1,4 +1,8 @@
-![header](assets/Python.mp4)
+<figure class="video_container">
+  <video>
+    <source src="assets/Python.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Date: 8/25/2022
 
